@@ -1,6 +1,6 @@
 # The Worst Ever PSS History Tool - web app
 
-Everything TheWorst needs to host the tool as a container, with automatic updates when
+Everything The worst. needs to host the tool as a container, with automatic updates when
 Strategery pushes a new build to the GitHub repository.
 
 ## What this is
